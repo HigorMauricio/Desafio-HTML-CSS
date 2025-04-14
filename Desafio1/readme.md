@@ -6,4 +6,4 @@ O seguinte projeto se refere a um site pessoal, apresentando um pouco mais sobre
 
 ![Image](https://github.com/user-attachments/assets/f15ba383-a77c-4ada-a1f5-c9ab276888aa)
 
-*O site ainda não dinâmica responsiva*
+*O site ainda não apresenta dinâmica responsiva*
