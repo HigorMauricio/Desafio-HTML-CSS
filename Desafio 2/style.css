@@ -1,0 +1,155 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Encode+Sans:wght@100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Rajdhani:wght@300;400;500;600;700&family=WindSong:wght@400;500&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #F3F3FB;
+}
+
+main{
+    width: 60%;
+    margin: 5% auto;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: -8px 14px 15px rgba(0, 0, 0, 0.116);
+}
+
+main::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.texto{
+    display: inline-block;
+    min-width: 5%;
+    max-width: 50%;
+    margin-bottom: 20%;
+}
+
+.imagem{
+    float: right;
+    display: inline-block;
+    width: 50%; 
+    height: 300px;
+    border-radius: 80px 20px 80px 0px;
+    background-image: radial-gradient(circle, #fcebdf, #FED2AF);
+    text-align: center;
+}
+
+#inicial{
+    margin-top: 80px;
+}
+
+h1 {
+    font-family: WindSong;
+    color: #f7d4a9;
+    margin-top: 20px;
+    padding-left: 42%;
+}
+
+h2{
+    font-family: Rajdhani;
+    font-weight: normal;
+    color: black;
+    padding-left: 120px;
+    margin-bottom: 10px;
+}
+
+h3{
+    font-family: Rajdhani;
+    font-weight: normal;
+    color: #BFBFC3;
+    padding-left: 120px;
+    margin-bottom: 10px;
+}
+
+main > div.texto > a{
+    color: black;
+    text-decoration: none;
+    padding-left: 120px;
+}
+
+main > div.imagem > picture{
+    display: inline-block;
+    margin-top: 3%;
+    width: 70%;
+    height: 99%;
+}
+
+main > div > picture > img{
+    width: 100%;
+    height: 100%;
+}
+
+.imagem2{
+    float: left;
+    display: inline-block;
+    width: 50%;
+    height: 450px;
+    border-radius: 60px 20px 60px 0px;
+    text-align: center;
+    background-image: radial-gradient(circle, #fcebdf, #feafc3);
+}
+
+main > div.imagem2 > picture{
+    display: inline-block;
+    margin-top: 10%;
+    width: 80%;
+    height: 91%;
+}
+
+.direito{
+    padding-left: 50px;
+}
+
+.esquerdo{
+    padding-left: 120px;
+    width: 60%;
+
+}
+
+p{
+    font-family: dosis;
+    text-align: justify;
+    width: 70%;
+    font-size: 0.9em;
+}
+
+.imagem3{
+    float: right;
+    display: inline-block;
+    width: 50%; 
+    height: 400px;
+    border-radius: 80px 20px 80px 0px;
+    background-image: radial-gradient(circle, #c9c2ec, #B8B0E1);
+    text-align: center;
+}
+
+main > div.imagem3 > picture{
+    display: inline-block;
+    margin-top: 3%;
+    width: 77%;
+    height: 97%;
+}
+
+footer{
+    text-align: center;
+}
+
+main > footer > a{
+    display: inline;
+}
+
+main > footer > a> img{
+    margin: 0px;
+    padding: 0px;;
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
