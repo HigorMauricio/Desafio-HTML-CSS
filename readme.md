@@ -14,7 +14,7 @@ Para mais detalhes acesse a pasta de cada desafio, onde o código para cada proj
 
 ## Site de Catálogo de Produtos
 
-![Image](https://github.com/user-attachments/assets/e5736120-c699-4edd-b42a-58346c17ad57)
+![Image](https://github.com/user-attachments/assets/bc58f65b-54ad-49fd-8135-6b3140da6b0d)
 
 ## Site de Notícias
 
