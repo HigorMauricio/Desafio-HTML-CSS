@@ -5,14 +5,11 @@
     padding: 0px;
 }
 
-.container{
-    position: relative;
+body{
     background-color: #D0C9F5;
-    height: 100vh;
 }
 
 .fundo{
-    position: absolute;
     background-color: white;
     max-width: 1100px;
     min-width: 300px;
@@ -20,6 +17,7 @@
     border-radius: 20px;
     padding: 20px 30px;
     font-family: Quicksand;
+    margin-top: 70px;
     margin-bottom: 20px;
     box-shadow: -5px 7px 20px 2px rgba(0, 0, 0, 0.11);
 }
