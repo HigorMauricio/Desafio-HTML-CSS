@@ -8,7 +8,7 @@ Para acessar o site, acesse o link abaixo:
 ## Imagem do Site
 
 ### Site em tela grande:
-![alt text](image-1.png)
+![alt text](imagens-readme/image-1.png)
 
 ### Site em tela pequena:
-![alt text](image-2.png)
+![alt text](imagens-readme/image-2.png)
